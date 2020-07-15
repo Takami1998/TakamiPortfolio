@@ -1,0 +1,60 @@
+h1 {
+  font-size:50px;
+  background-color: silver;
+  border-radius: 20px;
+  padding :20px 10px 10px 10px;
+}
+
+body p {
+  font-size :20px;
+}
+
+main  {
+  font-size: 28px;
+  font-family: 'Courier New', Courier, monospace;
+  border-top: 4px solid grey;
+  padding-top: 10px;
+  background-color: silver;
+}
+ body {
+   background-image :url(sea2.jpg);
+   background-size: cover;
+   background-attachment: fixed;
+ }
+
+ header {
+   padding:15px;
+   font-family: 'Courier New', Courier, monospace;
+   text-align :center;
+  
+ }
+
+ main {
+   font-weight :bold;
+ }
+ 
+section1 li {
+  display:inline;
+}
+
+section1 h1 {
+  font-size :30px;
+  padding: 10px;
+}
+
+section2 h1 {
+  font-size :30px;
+}
+
+section2 li {
+  
+}
+footer {
+  border-top: 4px solid grey;
+}
+
+h2 {
+  background-color: silver;
+  padding-top: 5px;
+  border-top: 4px solid grey;
+}
